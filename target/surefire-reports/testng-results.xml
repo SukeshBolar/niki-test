@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Regression suite" duration-ms="114676" started-at="2017-04-18T05:06:03Z" finished-at="2017-04-18T05:07:58Z">
+    <groups>
+    </groups>
+    <test name="Regression suite 1" duration-ms="114676" started-at="2017-04-18T05:06:03Z" finished-at="2017-04-18T05:07:58Z">
+      <class name="completeregistration.CompleteRegistrationPageTest">
+        <test-method status="PASS" signature="signUP()[pri:0, instance:completeregistration.CompleteRegistrationPageTest@3104351d]" name="signUP" duration-ms="92928" started-at="2017-04-18T10:36:25Z" finished-at="2017-04-18T10:37:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUP -->
+      </class> <!-- completeregistration.CompleteRegistrationPageTest -->
+      <class name="phonenumberentry.PhoneNumberPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:phonenumberentry.PhoneNumberPageTest@5eb97ced]" name="setup" is-config="true" duration-ms="22576" started-at="2017-04-18T10:35:41Z" finished-at="2017-04-18T10:36:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="enterPhoneNumber()[pri:0, instance:phonenumberentry.PhoneNumberPageTest@5eb97ced]" name="enterPhoneNumber" duration-ms="21643" started-at="2017-04-18T10:36:03Z" finished-at="2017-04-18T10:36:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterPhoneNumber -->
+      </class> <!-- phonenumberentry.PhoneNumberPageTest -->
+    </test> <!-- Regression suite 1 -->
+  </suite> <!-- Regression suite -->
+</testng-results>

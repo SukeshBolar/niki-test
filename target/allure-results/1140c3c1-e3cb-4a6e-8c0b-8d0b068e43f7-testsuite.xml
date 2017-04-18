@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1492491963961" stop="1492492083643" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Regression suite : Regression suite 1</name>
+    <title>Regression suite : Regression suite 1</title>
+    <test-cases>
+        <test-case start="1492491974136" stop="1492491985616" status="passed">
+            <name>enterPhoneNumber</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft3s-iMac.local"/>
+                <label name="thread" value="5401@codecraft3s-iMac.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1492491995848" stop="1492492078626" status="passed">
+            <name>signUP</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codecraft3s-iMac.local"/>
+                <label name="thread" value="5401@codecraft3s-iMac.local.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
